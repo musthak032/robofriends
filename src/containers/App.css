@@ -1,0 +1,17 @@
+
+    @font-face {
+    font-family: 'Clicky Bricks 3 Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Clicky Bricks 3 Regular'), url('ClickyBricks3Regular-ow5AA.woff') format('woff');
+    }
+    
+
+
+    h1{
+    	 font-family: 'Clicky Bricks 3 Regular';
+    	  font-style: normal;
+         font-weight: normal;
+         color: red;
+         font-weight: 200;
+    }
